@@ -1,0 +1,13 @@
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.exe
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.deps.json
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.runtimeconfig.json
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.runtimeconfig.dev.json
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.dll
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\bin\Debug\netcoreapp3.1\Pig Latin Lab.pdb
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.csproj.CoreCompileInputs.cache
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.AssemblyInfoInputs.cache
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.AssemblyInfo.cs
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.dll
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.pdb
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.genruntimeconfig.cache
+C:\Grandcircus\Pig Latin Lab\Pig Latin Lab\obj\Debug\netcoreapp3.1\Pig Latin Lab.csprojAssemblyReference.cache
